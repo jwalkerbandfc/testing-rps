@@ -34,7 +34,12 @@ The draw rule is implemented as `player1 == player2` and **must be tested**.
 ## Project Structure
 Create the following files:
 
-rps_project/ │ ├── rps.py ├── tdd_test.py ├── rps.feature └── bdd_test.py
+rps_project/ 
+│ 
+├── rps.py 
+├── tdd_test.py 
+├── rps.feature 
+└── bdd_test.py
 
 ---
 
